@@ -1,0 +1,58 @@
+body{
+    background-color:#001942;
+    margin: 0%;
+    padding: 0%;
+}
+
+.name{
+    /* float: left; */
+    color: white;
+    font-size: 20px;    
+}
+
+.img1{
+    display: inline;    
+}
+
+.img11{
+    display: inline;
+    margin-left: 40px;
+}
+
+.row1{
+    padding-left: 116px;
+}
+
+#name1{
+    display: inline;
+    margin-left: 870px; 
+    color: white;
+    font-size: 20px; 
+}
+
+#start{
+    font-size: 30px;
+    color: white;
+    font-weight: lighter;
+    display: inline;
+    margin-left: 126px; 
+}
+
+.admin
+{
+    color: white;
+    margin-left: 87%;
+    margin-top: -19px;
+}
+
+.footer{
+ 
+    margin-top: 1.5%;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    background-color: rgba(0, 0, 0, 0.493) ; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
